@@ -1,0 +1,6 @@
+requests  # for usps api
+mechanize  # for website interaction
+bs4  # for parsing HTML
+pyshp  # for ShapeFile GIS data
+pyproj  # to convert from bernco gis cartesian x/y to lat/long
+shapely  # for finding if given point is within given polygon
